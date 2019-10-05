@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Stephen K. Formel</title>
+    <link>sformel.github.io/publication/</link>
+    <description>Recent content in Publications on Stephen K. Formel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="sformel.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bacterial and fungal endophyte communities differ in trees of natural versus wastewater-treatment wetlands</title>
+      <link>sformel.github.io/publication/bc1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>sformel.github.io/publication/bc1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil Microbial Communities of Two Salt Marshes in Recovery Following an Oil Spill</title>
+      <link>sformel.github.io/publication/s2/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>sformel.github.io/publication/s2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persisting responses of salt marsh fungal communities to the Deepwater Horizon oil spill</title>
+      <link>sformel.github.io/publication/s6/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>sformel.github.io/publication/s6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Molecule RNA In Situ Hybridization (smFISH) and Immunofluorescence (IF) in the Drosophila Egg Chamber</title>
+      <link>sformel.github.io/publication/smfish/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
+      
+      <guid>sformel.github.io/publication/smfish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
