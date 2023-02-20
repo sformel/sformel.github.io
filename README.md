@@ -1,5 +1,5 @@
 # sformel.github.io
-The website of Steve Formel. Microbial ecologist and data manager.  I've taken down the site to renovate it, but if you've landed here, you can learn more about me at:
+The website of Steve Formel. Microbial ecologist and data manager.  I've taken down the site to renovate it but, if you've landed here, you can learn more about me at:
 
 - [LinkedIn profile](https://www.linkedin.com/in/stephen-formel-5b0202170/)
 
