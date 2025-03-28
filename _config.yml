@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Stephen K. Formel Professional Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Stephen K. Formel"
+description              : &description "This is a description"
+url                      : https://sformel.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sformel/sformel.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : # example: "he/his"  
+  bio              : "Stephen Formel is a biologist with the USGS Science Analytics and Synthesis (SAS) program. He is the node manager for the Ocean Biodiversity Information System - USA (OBIS-USA) and the Global Biodiversity Information Facility US (GBIF-US), and supports other efforts related to species observation and biodiversity. Stephen is a microbial ecologist by training, with past research focusing on the relationship between a salt marsh grass, its microbiome, and the Deepwater Horizon oil spill. More recently, he has turned his attention toward improving data management and standards implementation for large, complex data and projects."
+  location         : "New Orleans, LA, USA"
+  employer         : ""
   uri              : # URL
   email            : "none@example.org" 
 
