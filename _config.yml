@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Stephen K. Formel Professional Website"
 title_separator          : "-"
 name                     : &name "Stephen K. Formel"
-description              : &description "This is a description"
+description              : &description "Biodiversity Informatician"
 url                      : https://sformel.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sformel/sformel.github.io"
@@ -22,22 +22,22 @@ repository               : "sformel/sformel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "pgarden_profile_lowest-res.jpg"
+  name             : "Steve Formel"
   pronouns         : # example: "he/his"  
   bio              : "Stephen Formel is a biologist with the USGS Science Analytics and Synthesis (SAS) program. He is the node manager for the Ocean Biodiversity Information System - USA (OBIS-USA) and the Global Biodiversity Information Facility US (GBIF-US), and supports other efforts related to species observation and biodiversity. Stephen is a microbial ecologist by training, with past research focusing on the relationship between a salt marsh grass, its microbiome, and the Deepwater Horizon oil spill. More recently, he has turned his attention toward improving data management and standards implementation for large, complex data and projects."
   location         : "New Orleans, LA, USA"
   employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=2uh6nbAAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7418-1244"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Formel+SK&cauthor_id=37553798"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,9 +45,9 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sformel"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "sformel" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "stephen-formel-5b0202170" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
