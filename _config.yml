@@ -22,7 +22,7 @@ repository               : "sformel/sformel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pgarden_profile_lowest-res.jpg"
+  avatar           : "garden_profile_lowest-res.jpg"
   name             : "Steve Formel"
   pronouns         : # example: "he/his"  
   bio              : "Stephen Formel is a biologist with the USGS Science Analytics and Synthesis (SAS) program. He is the node manager for the Ocean Biodiversity Information System - USA (OBIS-USA) and the Global Biodiversity Information Facility US (GBIF-US), and supports other efforts related to species observation and biodiversity. Stephen is a microbial ecologist by training, with past research focusing on the relationship between a salt marsh grass, its microbiome, and the Deepwater Horizon oil spill. More recently, he has turned his attention toward improving data management and standards implementation for large, complex data and projects."
