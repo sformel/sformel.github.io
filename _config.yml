@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=2uh6nbAAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=2uh6nbAAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7418-1244"
   semantic         : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Formel+SK&cauthor_id=37553798"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Formel+SK&cauthor_id=37553798"
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : "sformel" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
