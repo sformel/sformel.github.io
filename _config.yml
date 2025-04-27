@@ -22,7 +22,7 @@ repository               : "sformel/sformel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "garden_profile_lowest-res.jpg"
+  avatar           : "SFORMEL_lores_profile.jpg"
   name             : "Steve Formel"
   pronouns         : # example: "he/his"  
   bio              : "Stephen Formel is a microbial ecologist and biodiversity informatician."
