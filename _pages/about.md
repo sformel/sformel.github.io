@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Stephen K. Formel Professional Website"
+title: "Formel Data Services LLC"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the professional page for Stephen K. Formel. Under construction like it's 1995 
+This is the homepage for Formel Data Services LLC. Under construction like it's 1995 
