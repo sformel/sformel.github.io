@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Stephen K. Formel Professional Website"
+title                    : "Formel Data Services LLC"
 title_separator          : "-"
 name                     : &name "Stephen K. Formel"
 description              : &description "Biodiversity Informatician"
@@ -25,11 +25,11 @@ author:
   avatar           : "garden_profile_lowest-res.jpg"
   name             : "Steve Formel"
   pronouns         : # example: "he/his"  
-  bio              : "Stephen Formel is a microbial ecologist and biodiversity informatician. He is the node manager for OBIS-USA and GBIF-US. Past research focused on the relationship between a salt marsh grass, its microbiome, and the Deepwater Horizon oil spill. More recently, he has turned his attention toward improving data management and standards implementation for large, complex data and projects."
+  bio              : "Stephen Formel is a microbial ecologist and biodiversity informatician."
   location         : "New Orleans, LA, USA"
   #employer         : ""
   uri              : # URL
-  email            : "steveformel+bio@gmail.com" 
+  email            : "steve@formeldataservices.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
